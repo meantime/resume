@@ -37,7 +37,7 @@ I was one of two full-time engineers working on the Mac games developed by Inter
 # US PATENTS
 _Granted:_  7117210, 7278108, 7376702, 6961420, 7155725, 7162513, 7613780
 
-_Pending:__  20090249247
+_Pending:_  20090249247
 
 # Interests
 Sailing, martial arts, firearms, anything having to do with books
