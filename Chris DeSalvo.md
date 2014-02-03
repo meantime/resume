@@ -1,5 +1,5 @@
 # Chris DeSalvo
-[chris@desalvo.org](mailto://chris@desalvo.org) • [github/meantime](http://github.com/meantime) • [@chrisdesalvo](http://twitter.com/chrisdesalvo) • [medium/@chrisdesalvo](https://medium.com/@chrisdesalvo)
+[chris@desalvo.org](mailto:chris@desalvo.org) • [github/meantime](http://github.com/meantime) • [@chrisdesalvo](http://twitter.com/chrisdesalvo) • [medium/@chrisdesalvo](https://medium.com/@chrisdesalvo)
 
 ### [Lyve Minds, Inc](http://lyveminds.com) • OS X Engineer • _2013-Present_
 I work on the Macintosh client application for our photo/video storage appliance. Areas of particular focus are in design prototyping in conjunction with our UX team; and application frameworks and view system management. This application will be released in the spring of 2014.
