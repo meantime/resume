@@ -5,7 +5,7 @@
 I work on the Mac OS X client application for our communication product for organizations.
 
 ### [Lyve Minds, Inc](http://lyveminds.com) • OS X Engineer • _2013-2014_
-I work on the Macintosh client application for our photo/video storage appliance. Areas of particular focus are application frameworks, view system management, and design prototyping in conjunction with our UX team. This application will be released in the spring of 2014.
+I worked on the Macintosh client application for Lyve's photo/video storage appliance. Areas of particular focus were application frameworks, view system management, and design prototyping in conjunction with their UX team.
 
 ### [Medium](http://medium.com) • iOS Engineer • _2012-2013_
 I developed several exploratory iOS applications for The Obvious Corporation’s medium.com product. The focus of my work was frameworks for data persistence, network interactions, and markup parsing and presentation. My work made extensive use of multiple iOS text processing and rendering technologies.
