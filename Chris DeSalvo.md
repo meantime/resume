@@ -1,7 +1,10 @@
 # Chris DeSalvo
 [chris@desalvo.org](mailto:chris@desalvo.org) • [github/meantime](http://github.com/meantime) • [@chrisdesalvo](http://twitter.com/chrisdesalvo) • [medium/@chrisdesalvo](https://medium.com/@chrisdesalvo)
 
-### [Lyve Minds, Inc](http://lyveminds.com) • OS X Engineer • _2013-Present_
+### [Slack Technologies, Inc](http://slack.com) • Senior Staff Engineer, OS X • _2014-present_
+I work on the Mac OS X client application for our communication product for organizations.
+
+### [Lyve Minds, Inc](http://lyveminds.com) • OS X Engineer • _2013-2014_
 I work on the Macintosh client application for our photo/video storage appliance. Areas of particular focus are application frameworks, view system management, and design prototyping in conjunction with our UX team. This application will be released in the spring of 2014.
 
 ### [Medium](http://medium.com) • iOS Engineer • _2012-2013_
