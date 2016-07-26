@@ -1,7 +1,10 @@
 # Chris DeSalvo
 [chris@desalvo.org](mailto:chris@desalvo.org) • [github/meantime](http://github.com/meantime) • [@chrisdesalvo](http://twitter.com/chrisdesalvo) • [medium/@chrisdesalvo](https://medium.com/@chrisdesalvo)
 
-### [Slack Technologies, Inc](http://slack.com) • Senior Staff Engineer, OS X • _2014-present_
+### [Slack Technologies, Inc](http://slack.com) • Senior Staff Engineer, Other Projects • _2016_
+Shhhh, it's a secret.
+
+### [Slack Technologies, Inc](http://slack.com) • Senior Staff Engineer, OS X • _2014-2016_
 I work on the Mac OS X client application for our communication product for organizations.
 
 ### [Lyve Minds, Inc](http://lyveminds.com) • OS X Engineer • _2013-2014_
