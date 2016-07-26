@@ -5,7 +5,7 @@
 Shhhh, it's a secret.
 
 ### [Slack Technologies, Inc](http://slack.com) • Senior Staff Engineer, OS X • _2014-2016_
-I work on the Mac OS X client application for our communication product for organizations.
+I worked on the Mac OS X client application for our communication product for organizations.
 
 ### [Lyve Minds, Inc](http://lyveminds.com) • OS X Engineer • _2013-2014_
 I worked on the Macintosh client application for Lyve's photo/video storage appliance. Areas of particular focus were application frameworks, view system management, and design prototyping in conjunction with their UX team.
