@@ -47,4 +47,4 @@ _Pending:_  [20090249247](http://www.google.com/patents/US20090249247)
 **Academy of Interactive Arts & Sciences** • _Best Simulation_, and _Best Use of Multimedia_ for SimCity Enhanced CD-ROM
 
 # Interests
-Sailing, martial arts, firearms, anything having to do with books
+Sailing, martial arts, languages, anything having to do with books
