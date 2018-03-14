@@ -6,8 +6,10 @@ I was the technical lead for an as-yet unannounced product in the Productivity P
 
 Prior to that I was the technical lead for Slack's macOS desktop client.
 
-### [Lyve Minds, Inc](http://lyveminds.com) • OS X Engineer • _2013-2014_
+### Lyve Minds, Inc • OS X Engineer • _2013-2014_
 I worked on the Macintosh client application for Lyve's photo/video storage appliance. Areas of particular focus were application frameworks, view system management, and design prototyping in conjunction with their UX team.
+
+Lyve Minds was acquired by Seagate.
 
 ### [Medium](http://medium.com) • iOS Engineer • _2012-2013_
 I developed several exploratory iOS applications for The Obvious Corporation’s medium.com product. The focus of my work was frameworks for data persistence, network interactions, and markup parsing and presentation. My work made extensive use of multiple iOS text processing and rendering technologies.
@@ -35,7 +37,7 @@ For the Sidekick2 model I did the initial bring-up work for Bluetooth support. I
 I was an engineer on DrawSprocket, a toolkit to manage screen configuration and accelerate 2D blitting. I wrote much of the documentation for all of the Sprockets, and wrote and presented our sessions at WWDC. I did outreach to other groups at Apple whenever there was a chance to improve their technologies in the interest of better game support, and worked with numerous 3rd parties to help them adopt Sprockets technologies.
 
 ### Interplay/MacPlay • Software Engineer  • _1992-1996_
-I was one of two full-time engineers working on the Mac games developed by Interplay's MacPlay division. I shipped 15 titles in my four years there. Notable titles were: Out of this World, Star Trek: Judgment Rites (programming and writing credits), SimCity CD-ROM, and Beat the House.  I spent a significant portion of my time developing libraries that were used in all of our games, and shared with our affiliate developers, to simplify tasks such as screen resolution switching, palette management, video gamma adjustment, keyboard input, CD-ROM access, etc.
+I was one of two full-time engineers working on the Mac games developed by Interplay's MacPlay division. I shipped 15 titles in my four years there. Notable titles were: Out of this World, Star Trek: Judgment Rites (programming and writing credits), SimCity CD-ROM, and Beat the House. I spent a significant portion of my time developing libraries that were used in all of our games, and shared with our affiliate developers, to simplify tasks such as screen resolution switching, palette management, video gamma adjustment, keyboard input, CD-ROM access, etc.
 
 # US PATENTS
 _Granted:_  [7117210](http://www.google.com/patents/US7117210), [7278108](http://www.google.com/patents/US7278108), [7376702](http://www.google.com/patents/US7376702), [6961420](http://www.google.com/patents/US6961420), [7155725](http://www.google.com/patents/US7155725), [7162513](http://www.google.com.mx/patents/US7162513), [7613780](http://www.google.com/patents/US7613780)
@@ -46,4 +48,4 @@ _Pending:_  [20090249247](http://www.google.com/patents/US20090249247)
 **Academy of Interactive Arts & Sciences** • _Best Simulation_, and _Best Use of Multimedia_ for SimCity Enhanced CD-ROM
 
 # Interests
-Sailing, martial arts, languages, anything having to do with books
+Sailing, languages, anything having to do with books
