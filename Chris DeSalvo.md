@@ -2,9 +2,11 @@
 [chris@desalvo.org](mailto:chris@desalvo.org) • [github/meantime](http://github.com/meantime) • [@chrisdesalvo](http://twitter.com/chrisdesalvo) • [medium/@chrisdesalvo](https://medium.com/@chrisdesalvo)
 
 ### [Slack Technologies, Inc](http://slack.com) • Senior Staff Engineer • _2014-2018_
-I was the technical lead for an as-yet unannounced product in the Productivity Products group.
+I was the technical lead for an as-yet unannounced product in the Productivity Products group. Seeing an area where our customers were being underserved I kicked off this new product and brought it most of the way to production with a two person team. I worked within the core Slack frontend and backend software, as well as my product's frontend and backend.
 
-Prior to that I was the technical lead for Slack's macOS desktop client. Was responsible for every aspect of the development and release of the client and brought it to be the #1 free app in the Mac App Store with a 4.5 star rating.
+Prior to that I was the technical lead for Slack's macOS desktop client. I was responsible for every aspect of the development and release of the client and brought it to be the #1 free app in the Mac App Store with a 4.5 star rating. I worked very closely with Slack's Customer Experience, QA, editorial, and other teams during that time.
+
+For two years I taught a class on customer service to all new hires in Product, Design, and Engineering.
 
 ### Lyve Minds, Inc • OS X Engineer • _2013-2014_
 I worked on the Macintosh client application for Lyve's photo/video storage appliance. Areas of particular focus were application frameworks, view system management, and design prototyping in conjunction with their UX team.
