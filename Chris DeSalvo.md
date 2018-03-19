@@ -4,7 +4,7 @@
 ### [Slack Technologies, Inc](http://slack.com) • Senior Staff Engineer • _2014-2018_
 I was the technical lead for an as-yet unannounced product in the Productivity Products group.
 
-Prior to that I was the technical lead for Slack's macOS desktop client.
+Prior to that I was the technical lead for Slack's macOS desktop client. Was responsible for every aspect of the development and release of the client and brought it to be the #1 free app in the Mac App Store with a 4.5 star rating.
 
 ### Lyve Minds, Inc • OS X Engineer • _2013-2014_
 I worked on the Macintosh client application for Lyve's photo/video storage appliance. Areas of particular focus were application frameworks, view system management, and design prototyping in conjunction with their UX team.
@@ -24,7 +24,7 @@ I worked on all aspects of Android software development at Google: UI design, ra
 
 As a generalist, I was itinerant among various Android groups which were having difficulty making progress, where my job was to assess the situation and figure out how to fix it. This included design, principal engineering, optimization, debugging, as well as project restructuring to adhere to best practices.
 
-I co-designed the window-shade notification system and the keyboard layout.
+I co-designed the [window-shade notification system](http://www.google.com/patents/US20090249247) and the keyboard layout.
 
 ### Danger • Senior Software Engineer  • _2000-2005_
 Danger developed the hardware and backend service for the hiptop, the [original smart phone](https://medium.com/tech-talk/d823af31f7c), and the first to store all of its data in the cloud. It also pioneered other technologies such as over-the-air OS updates, push notifications, an on-device app store, always-on data networking, and many other features that are core to modern smartphones. I designed and implemented a significant part of the original software including the majority of the application framework, view system, graphics toolkit, all of the UI widgets, the text editing engine, the internationalization system, and many of the network wire protocols for synchronizing data between the device and the backend service.
@@ -49,6 +49,3 @@ _Pending:_  [20090249247](http://www.google.com/patents/US20090249247)
 
 # Publications
 [_The Future That Everyone Forgot_](https://medium.com/@chrisdesalvo/the-future-that-everyone-forgot-d823af31f7c)
-
-# Interests
-Sailing, languages, anything having to do with books
