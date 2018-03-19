@@ -47,5 +47,8 @@ _Pending:_  [20090249247](http://www.google.com/patents/US20090249247)
 # Awards
 **Academy of Interactive Arts & Sciences** • _Best Simulation_, and _Best Use of Multimedia_ for SimCity Enhanced CD-ROM
 
+# Publications
+[_The Future That Everyone Forgot_](https://medium.com/@chrisdesalvo/the-future-that-everyone-forgot-d823af31f7c)
+
 # Interests
 Sailing, languages, anything having to do with books
