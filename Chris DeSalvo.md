@@ -4,7 +4,7 @@
 ### Retired • _2019-present_
 33 years of working seemed like enough. 
 
-### [June, Inc](http://juneoven.com) • Senior Engineer • _2018-2019_
+### [June Life, Inc](http://juneoven.com) • Senior Engineer • _2018-2019_
 Developed an iOS SDK to allow 3rd party cooking appliances to talk to June software via Bluetooth. Also developed a macOS application used by 3rd party culinary teams to author cook programs used by that SDK.
 
 ### [Slack Technologies, Inc](http://slack.com) • Senior Staff Engineer • _2014-2018_
