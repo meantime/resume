@@ -1,8 +1,14 @@
 # Chris DeSalvo
 [chris@desalvo.org](mailto:chris@desalvo.org) • [github/meantime](http://github.com/meantime) • [@chrisdesalvo](http://twitter.com/chrisdesalvo) • [medium/@chrisdesalvo](https://medium.com/@chrisdesalvo)
 
+### Retired • _2019-present_
+33 years of working seemed like enough. 
+
+### [June, Inc](http://juneoven.com) • Senior Engineer • _2018-2019_
+Developed an iOS SDK to allow 3rd party cooking appliances to talk to June software via Bluetooth. Also developed a macOS application used by 3rd party culinary teams to author cook programs used by that SDK.
+
 ### [Slack Technologies, Inc](http://slack.com) • Senior Staff Engineer • _2014-2018_
-I was the technical lead for an as-yet unannounced product in the Productivity Products group.
+I kicked off and was the technical lead for the Pages collaborative word processor feature.
 
 Prior to that I was the technical lead for Slack's macOS desktop client.
 
@@ -40,9 +46,7 @@ I was an engineer on DrawSprocket, a toolkit to manage screen configuration and 
 I was one of two full-time engineers working on the Mac games developed by Interplay's MacPlay division. I shipped 15 titles in my four years there. Notable titles were: Out of this World, Star Trek: Judgment Rites (programming and writing credits), SimCity CD-ROM, and Beat the House. I spent a significant portion of my time developing libraries that were used in all of our games, and shared with our affiliate developers, to simplify tasks such as screen resolution switching, palette management, video gamma adjustment, keyboard input, CD-ROM access, etc.
 
 # US PATENTS
-_Granted:_  [7117210](http://www.google.com/patents/US7117210), [7278108](http://www.google.com/patents/US7278108), [7376702](http://www.google.com/patents/US7376702), [6961420](http://www.google.com/patents/US6961420), [7155725](http://www.google.com/patents/US7155725), [7162513](http://www.google.com.mx/patents/US7162513), [7613780](http://www.google.com/patents/US7613780)
-
-_Pending:_  [20090249247](http://www.google.com/patents/US20090249247)
+_Granted:_  [7117210](http://www.google.com/patents/US7117210), [7278108](http://www.google.com/patents/US7278108), [7376702](http://www.google.com/patents/US7376702), [6961420](http://www.google.com/patents/US6961420), [7155725](http://www.google.com/patents/US7155725), [7162513](http://www.google.com.mx/patents/US7162513), [7613780](http://www.google.com/patents/US7613780), [20090249247](http://www.google.com/patents/US20090249247)
 
 # Awards
 **Academy of Interactive Arts & Sciences** • _Best Simulation_, and _Best Use of Multimedia_ for SimCity Enhanced CD-ROM
