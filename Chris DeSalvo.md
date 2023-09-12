@@ -1,5 +1,5 @@
 # Chris DeSalvo
-[chris@desalvo.org](mailto:chris@desalvo.org) • [github/meantime](http://github.com/meantime) • [@chrisdesalvo](http://twitter.com/chrisdesalvo) • [medium/@chrisdesalvo](https://medium.com/@chrisdesalvo)
+[chris@desalvo.org](mailto:chris@desalvo.org) • [github/meantime](http://github.com/meantime) • [medium/@chrisdesalvo](https://medium.com/@chrisdesalvo)
 
 ### Retired • _2019-present_
 33 years of working seemed like enough. 
