@@ -7,10 +7,12 @@
 ### [June Life, Inc](http://juneoven.com) • Senior Engineer • _2018-2019_
 Developed an iOS SDK to allow 3rd party cooking appliances to talk to June software via Bluetooth. Also developed a macOS application used by 3rd party culinary teams to author cook programs used by that SDK.
 
+June was acqruied by the Weber grill company.
+
 ### [Slack Technologies, Inc](http://slack.com) • Senior Staff Engineer • _2014-2018_
 I kicked off and was the technical lead for the Pages collaborative word processor feature.
 
-Prior to that I was the technical lead for Slack's macOS desktop client.
+Prior to that I was the technical lead for Slack's macOS desktop client which spent over a year as the #1 app in the macOS App Store.
 
 ### Lyve Minds, Inc • OS X Engineer • _2013-2014_
 I worked on the Macintosh client application for Lyve's photo/video storage appliance. Areas of particular focus were application frameworks, view system management, and design prototyping in conjunction with their UX team.
@@ -52,4 +54,4 @@ _Granted:_  [7117210](http://www.google.com/patents/US7117210), [7278108](http:/
 **Academy of Interactive Arts & Sciences** • _Best Simulation_, and _Best Use of Multimedia_ for SimCity Enhanced CD-ROM
 
 # Interests
-Sailing, languages, anything having to do with books
+Martial arts, sailing, languages, anything to do with books
